@@ -366,7 +366,7 @@ MonoBehaviour:
     minNormalAngle: 0
     maxNormalAngle: 0
   sceneNames:
-  - Dungeon1
+  - PortalHub
 --- !u!61 &65088560
 BoxCollider2D:
   m_ObjectHideFlags: 0
