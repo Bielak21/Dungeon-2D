@@ -11,16 +11,18 @@ Walczymy z przeciwnikami, zdobywamy doświadczenie, pieniądze, ulepszamy posta�
 
 
 - Ulepszanie broni wymaga od nas zebrania określonej sumy pieniędzy. Można je zdobywać otwierając skrzynie porozrzucane po mapie
->img
+<img src="Zdjęcia/Build Screenshot 2023.11.01 - 17.15.45.18.png">
 
 - Warto jednak uważać na Cygana (postać wzorowana na moim znajomym o takim przezwisku), który lubi przywłaszczać sobie zawartość naszego mieszka
->img
+<img src="Zdjęcia/Build Screenshot 2023.11.01 - 16.57.34.68.png">
 
 - Z wieloma postaciami można przeprowadzić ograniczony dialog
->img
+<img src="Zdjęcia/Build Screenshot 2023.11.01 - 17.16.14.49.png">
 
 - Fontanny mogą nas uleczyć po ciężkiej walce
->img
+<img src="Zdjęcia/Build Screenshot 2023.11.01 - 17.16.52.09.png">
+
+>Więcej zdjęć w folderze Zdjęcia
 
 #
 
