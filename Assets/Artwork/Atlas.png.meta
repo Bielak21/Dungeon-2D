@@ -1658,7 +1658,7 @@ TextureImporter:
         width: 16
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1679,7 +1679,7 @@ TextureImporter:
         width: 16
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1700,7 +1700,7 @@ TextureImporter:
         width: 16
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1708,6 +1708,48 @@ TextureImporter:
       bones: []
       spriteID: 347b79704aeb2774d851cbcce4795494
       internalID: -1637690068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d41e76fc968378488661996a105f74d
+      internalID: 1022822134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2b8ccde9355b84196e125afb50baf4
+      internalID: -140533796
       vertices: []
       indices: 
       edges: []
@@ -1779,6 +1821,7 @@ TextureImporter:
       pillar_2_d: 366841679
       knight_green: -1154433619
       healingFountain_2: 1515578338
+      mage_0: 1022822134
       floor_8: 1059315427
       floor_11: 984085454
       torch_7: 1910532759
@@ -1788,6 +1831,7 @@ TextureImporter:
       floor_1: -135989986
       wall_4: 2092544081
       box_0: -1545180234
+      mage_1: -140533796
       pillar_1_d: 320327800
       floor_12: -302141595
       stairs_2: -708982649

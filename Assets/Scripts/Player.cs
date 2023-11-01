@@ -51,10 +51,11 @@ public class Player : Mover
         }
     }
 
-    public void Heal(int healingAmount)
+    public void Heal(int healingAmount, Color kolor)
     {
+        string znak = "";
 
-        if(hitpoints == maxHitpoints)
+        if (hitpoints == maxHitpoints)
         {
             return;
         }
@@ -65,13 +66,22 @@ public class Player : Mover
         {
             hitpoints = maxHitpoints;
         }
-        GameManager.instance.ShowText("+" + healingAmount.ToString() + "hp", 25, Color.green, transform.position, Vector3.up * 30, 1.0f);
+
+        if(healingAmount > 0)
+        {
+            znak = "+";
+        }
+        else
+        {
+            znak = string.Empty;
+        }
+        GameManager.instance.ShowText(znak + healingAmount.ToString() + "hp", 25, kolor, transform.position, Vector3.up * 30, 1.0f);
         GameManager.instance.OnHitpointChange();
     }
 
     public void Respawn()
     {
-        Heal(maxHitpoints);
+        Heal(maxHitpoints, Color.green);
         isAlive = true;
         lastImmune = Time.time;
         pushDirection = Vector3.zero;

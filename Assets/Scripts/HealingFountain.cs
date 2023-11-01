@@ -5,6 +5,7 @@ using UnityEngine;
 public class HealingFountain : Collidable
 {
     public int healingAmount = 1;
+    public Color color = Color.green;
 
     private float healCooldown = 1.0f;
     private float lastHeal;
@@ -19,7 +20,7 @@ public class HealingFountain : Collidable
         if(Time.time - lastHeal > healCooldown)
         {
             lastHeal = Time.time;
-            GameManager.instance.player.Heal(healingAmount);
+            GameManager.instance.player.Heal(healingAmount, color);
         }
     }
 }
