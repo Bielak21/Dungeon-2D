@@ -8,7 +8,7 @@ Walczymy z przeciwnikami, zdobywamy doświadczenie, pieniądze, ulepszamy posta�
 ## Do szczegółu
 
 - Podczas grania można dostosować wygląd swojej postaci
-
+<img src="Zdjęcia/Build Screenshot 2023.11.01 - 19.07.57.40.png">
 
 - Ulepszanie broni wymaga od nas zebrania określonej sumy pieniędzy. Można je zdobywać otwierając skrzynie porozrzucane po mapie
 <img src="Zdjęcia/Build Screenshot 2023.11.01 - 17.15.45.18.png">
